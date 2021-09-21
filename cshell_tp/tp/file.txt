@@ -1,0 +1,5 @@
+ligne1$
+ligne2$
+3$
+une_autre_ligne4$
+fin(5)$
